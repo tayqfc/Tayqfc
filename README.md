@@ -30,4 +30,4 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"></a> 
 </div>
 
- ![Snake animation](https://github.com/tayqfc/tayqfc/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/tayqfc)
